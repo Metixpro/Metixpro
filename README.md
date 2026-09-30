@@ -25,6 +25,3 @@
 
 Telegram Bots • Web Apps • APIs • Automation • AI Projects
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metixpro\&show_icons=true\&theme=tokyonight\&hide_border=true)
