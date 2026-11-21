@@ -10,8 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00F5D4&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+autonomous+AI+agent+builder;Telegram+Bots+%E2%80%A2+REST+APIs+%E2%80%A2+Automation;Go+%2F+PHP+%2F+Python+%2F+JavaScript;Founder+of+MACRON+%E2%80%94+the+agent+that+never+sleeps" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Metixpro&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Metixpro?label=FOLLOWERS&style=for-the-badge&color=3a0ca3" alt="Followers" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=Metixpro&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge" alt="Profile views" />
 
 </div>
 
