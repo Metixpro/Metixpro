@@ -7,11 +7,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:3a0ca3,65:b5179e,100:00f5d4&height=190&section=header&text=MEHDI%20TOOSSI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=METIXPRO%20%2F%2F%20AUTONOMOUS%20SYSTEMS%20ARCHITECT&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Metixpro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00F5D4&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+autonomous+AI+agent+builder;Telegram+Bots+%E2%80%A2+REST+APIs+%E2%80%A2+Automation;Go+%2F+PHP+%2F+Python+%2F+JavaScript;Founder+of+MACRON+%E2%80%94+the+agent+that+never+sleeps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00F5D4&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+autonomous+AI+agent+builder;Telegram+Bots+%E2%80%A2+REST+APIs+%E2%80%A2+Automation;Go+%2F+PHP+%2F+Python+%2F+JavaScript;Systems+that+run+themselves%2C+24%2F7" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/github/followers/Metixpro?label=FOLLOWERS&style=for-the-badge&color=3a0ca3" alt="Followers" />
 <br>
+<img src="https://img.shields.io/github/followers/Metixpro?label=FOLLOWERS&style=for-the-badge&color=3a0ca3" alt="Followers" />
 <img src="https://komarev.com/ghpvc/?username=Metixpro&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -31,7 +31,8 @@
 
   OS .......... Debian GNU/Linux (servers, always on)
   ROLE ........ Autonomous Systems Architect / Full-Stack Builder
-  FLAGSHIP .... MACRON — autonomous AI agent (Go)
+  TEAM ........ Spector
+  FOCUS ....... Autonomous agents & self-running systems
   STACK ....... Go · PHP · Python · JavaScript · Vue
   BASE ......... MariaDB · PostgreSQL · Redis
   STATUS ...... [ ● ONLINE ] building in the dark 🌑
@@ -49,6 +50,7 @@ pipelines and catalogs that sync, enrich and guard themselves around the clock.
 - 🤖 **Macron** — autonomous AI agent written in **Go**: Telegram bot + REST API + CLI, Bubblewrap sandboxing, deep research, multimodal tools, Free/VIP tiers via Telegram Stars
 - 🎬 **Movra** — a full movie & series platform (catalog of ~38k titles) with its own admin panel, Redis/APCu/file cache drivers, Telegram bot and a 30-minute self-guardian
 - 🛠️ Everything self-hosted on my own Debian servers — LAMP, FPM pools, Tor-routed syncs, the works
+- 👥 Member of **Team Spector**
 
 ---
 
